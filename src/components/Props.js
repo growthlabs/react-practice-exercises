@@ -1,10 +1,10 @@
 import React, {Component} from 'react'
-
+//Comment added
 const Props =()=>(
     <div>
         
 <h3>Exercise One: </h3> 
-<h4> Pass the name user name and image src to a badge component and then call that badge component inside your App </h4> 
+<h4> Pass name user name and image src to a badge component and then call that badge component inside your App </h4> 
  
  
 <pre>
